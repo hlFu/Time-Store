@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Time-Store</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    
+    <!-- Register String -->
+    <string name="register_username">Username</string>
+    <string name="register_password">Password</string>
+    <string name="register_submit">Submit</string>
+
+    
+    <!-- Login String -->
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_submit">Submit</string>
+</resources>
